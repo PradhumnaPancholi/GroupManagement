@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\C-sharp(track)\\GroupManagement\\src\\PlayBall.GroupManagement.Web\\PlayBall.GroupManagement.Web.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
